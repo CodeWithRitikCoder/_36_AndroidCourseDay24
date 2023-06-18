@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project 24 of Android Dev_Notifications In Android</string>
+    <string name="welcome_back">Welcome \nback..!</string>
+    <string name="notifications_in_android">Notifications in \nAndroid</string>
+    <string name="notify_me">Notify me</string>
+    <string name="click_on_the_well_icon_to_get_notification">Click on the Well Icon \nto \nget Notification</string>
+    <string name="congratulations_for_this_notification">Congratulations for \nthis \nNotification</string>
+</resources>
